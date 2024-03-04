@@ -10,8 +10,8 @@
 ** Data Analyst @ Chugach (_October 2023 - Present_)**
  - Gathered and analyzed data for the financial center of the Department of Homeland Security.
  - Transformed and told stories through data visualization and dashboarding using Power BI and Power Query.
-![Dashboard2](/assets/img/Dashboard.png)
-![alt text](https://github.com/HarleeScordo/HarleeNScordo.github.io/blob/a655d4f45bf1344d0cae74adb6170b27f4b46b7b/Dashboard2.png)
+![Dashboard1](/assets/img/Dashboard1.png)
+![Dashboard2](assets/img/Dashboard2.png)
 
 ** Senior Systems Analyst @ US Navy (_2020 - 2023_)**
  - Collaborated with architects to develop and implement data-driven strategries.
@@ -34,3 +34,5 @@
 Dashboarding:
 ![alt text](https://github.com/HarleeScordo/HarleeNScordo.github.io/blob/a655d4f45bf1344d0cae74adb6170b27f4b46b7b/Screenshot_20221114_035231.png)
 ![alt text](https://github.com/HarleeScordo/HarleeNScordo.github.io/blob/a655d4f45bf1344d0cae74adb6170b27f4b46b7b/Screenshot_20221114_035114.png)
+
+RCodes:
