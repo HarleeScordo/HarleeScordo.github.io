@@ -33,12 +33,12 @@
 
 ## Dashboarding:
 
-![Dash1](assets/img/Dash1.png)
+![Dash1](/assets/img/Dash1.png)
 ![Dash2](assets/img/Dash2.png)
 
 ## RCodes examples:
 
-![RCode3](assets/img/RCode3.png)
+![RCode3](/assets/img/RCode3.png)
 ![RCode5](assets/img/RCode5.png)
-![RCode6](assets/img/RCode6.png)
+![RCode6](/assets/img/RCode6.png)
 
