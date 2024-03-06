@@ -36,7 +36,7 @@
 ![Dash1](/assets/img/Dash1.png)
 ![Dash2](assets/img/Dash2.png)
 
-## RCodes examples:
+## R Codes examples:
 
 ![RCode3](/assets/img/RCode3.png)
 ![RCode5](assets/img/RCode5.png)
