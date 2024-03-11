@@ -6,6 +6,8 @@
 - B.S., Data Science/Neuroscience | Arizona State University (_August 2024_)
 - A.S., Psychology | Daytona State College (_August 2022_)
 
+
+
 ### Projects
 
 ## Dashboarding:
@@ -22,11 +24,14 @@ I hosted an interactive dashboard on Excel that users could drill-down and filte
 ![Dashboard2](/assets/img/Dashboard2.png)
 
 
+
 ## R Codes examples:
 
 ![RCode3](/assets/img/RCode3.png)
 ![RCode5](assets/img/RCode5.png)
 ![RCode6](/assets/img/RCode6.png)
+
+
 
 
 ## Work Experience 
