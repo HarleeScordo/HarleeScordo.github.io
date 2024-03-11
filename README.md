@@ -12,7 +12,7 @@
 
 Created a dashboard showcasing the top 10 nationally desired programming languages, databases, platforms and web frames. I showcased them accordingly in DB2.
 ![Dash1](/assets/img/Dash1.png)
-![Dash}(/assets/img/Dash.png)
+![Dash](/assets/img/Dash.png)
 
 I created an interactive dashboard of survey results. It is broken down by gender, age, origin and education level.
 ![Dash2](assets/img/Dash2.png)
