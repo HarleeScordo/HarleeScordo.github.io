@@ -12,6 +12,9 @@
 
 ## Dashboarding:
 
+Created a dashboard to display motorcylce sales from a sample set. 
+![Motorcylce Dash](assets/img/Motorcycle Dash.png)
+
 Created a dashboard showcasing the top 10 nationally desired programming languages, databases, platforms and web frames. I showcased them accordingly in DB2.
 ![Dash1](/assets/img/Dash1.png)
 ![Dash](/assets/img/Dash.png)
