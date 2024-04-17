@@ -12,7 +12,7 @@
 
 ## Dashboarding:
 
-Created a dashboard to display motorcylce sales from a sample set. 
+I created a dashboard to display motorcylce sales from a sample set. 
 
 ![Motorcylce Dash](assets/img/Motorcycle Dash.png)
 
