@@ -13,18 +13,17 @@
 ## Dashboarding:
 
 Created a dashboard to display motorcylce sales from a sample set. 
+
 ![Motorcylce Dash](assets/img/Motorcycle Dash.png)
 
 Created a dashboard showcasing the top 10 nationally desired programming languages, databases, platforms and web frames. I showcased them accordingly in DB2.
+
 ![Dash1](/assets/img/Dash1.png)
 ![Dash](/assets/img/Dash.png)
 
 I created an interactive dashboard of survey results. It is broken down by gender, age, origin and education level.
 ![Dash2](assets/img/Dash2.png)
 
-I hosted an interactive dashboard on Excel that users could drill-down and filter according to their needs. It has quick visual representation by tech, and different totals of invoices. I would get the data, clean it via power query and then upload it daily.
-![Dashboard1](/assets/img/Dashboard1.png)
-![Dashboard2](/assets/img/Dashboard2.png)
 
 
 
