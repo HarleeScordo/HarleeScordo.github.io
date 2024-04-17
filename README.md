@@ -12,7 +12,7 @@
 
 ## Dashboarding:
 
-I created a dashboard to display motorcylce sales from a sample set. 
+I created a dashboard to display motorcylce sales from a sample set using Power BI. 
 
 ![Motorcylce Dash](assets/img/Motorcycle Dash.png)
 
