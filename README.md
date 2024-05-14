@@ -32,7 +32,8 @@ I created an interactive dashboard of survey results. It is broken down by gende
 
 This is a simple plot showing the number of prental visits corresponding to the length of pregnancy. 
  
-![RCode3](/assets/img/RCode3.png)
+![BirthByWeekCode](/assets/img/BirthByWeekCode.png)
+![LengthPreg](/assets/img/LengthPreg.png)
  
 This is a simple color coordinated plot for premature babies versus full-term. 
  
