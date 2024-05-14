@@ -37,7 +37,7 @@ This is a simple plot showing the number of prental visits corresponding to the 
  
 This is a simple color coordinated plot for premature babies versus full-term. 
  
-![RCode5](assets/img/RCode5.png)
+![RCode5](assets/img/RCode5.png) 
  
 This is a histogram showcasing male birthweight versus female birthweight. 
  
