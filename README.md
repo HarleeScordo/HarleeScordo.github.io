@@ -22,7 +22,8 @@ I created a dashboard showcasing the top 10 nationally desired programming langu
 ![Dash](/assets/img/Dash.png)
 
 I created an interactive dashboard of survey results. It is broken down by gender, age, origin and education level.
-![Dash2](assets/img/Dash2.png)
+![BirthWeight](assets/img/BirthWeight.png)
+![BirthWeightCode](assets/img/BirthWeightCode.png)
 
 
 
