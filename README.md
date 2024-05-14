@@ -16,7 +16,7 @@ I created a dashboard to display motorcylce sales from a sample set using Power 
 
 ![Motorcylce Dash](assets/img/Motorcycle Dash.png)
 
-Created a dashboard showcasing the top 10 nationally desired programming languages, databases, platforms and web frames. I showcased them accordingly in DB2.
+I created a dashboard showcasing the top 10 nationally desired programming languages, databases, platforms and web frames. I showcased them accordingly in DB2.
 
 ![Dash1](/assets/img/Dash1.png)
 ![Dash](/assets/img/Dash.png)
@@ -29,8 +29,13 @@ I created an interactive dashboard of survey results. It is broken down by gende
 
 ## R Codes examples:
 
+This is a simple plot showing the number of prental visits corresponding to the length of pregnancy. 
 ![RCode3](/assets/img/RCode3.png)
+
+This is a simple color coordinated plot for premature babies versus full-term. 
 ![RCode5](assets/img/RCode5.png)
+
+This is a histogram showcasing male birthweight versus female birthweight. 
 ![RCode6](/assets/img/RCode6.png)
 
 
