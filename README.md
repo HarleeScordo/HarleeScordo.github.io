@@ -14,7 +14,7 @@
 
 I created a dashboard to display motorcylce sales from a sample set using Power BI. 
  
-![Motorcylce Dash](assets/img/Motorcycle Dash.png)
+![MotorcylceDash](assets/img/MotorcycleDash.png)
  
 I created a dashboard showcasing the top 10 nationally desired programming languages, databases, platforms and web frames. I showcased them accordingly in DB2.
  
@@ -40,8 +40,9 @@ This is a simple color coordinated plot for premature babies versus full-term.
  
 This is a histogram showcasing male birthweight versus female birthweight. 
  
-![BirthWeight](assets/img/BirthWeight.png)
 ![BirthWeightCode](assets/img/BirthWeightCode.png)
+![BirthWeight](assets/img/BirthWeight.png)
+
 
 
 
