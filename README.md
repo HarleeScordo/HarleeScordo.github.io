@@ -12,7 +12,7 @@
 
 ## Made difference report for similar CSVs and Parquets:
 
-I Made difference report for similar CSVs and Parquets. This helps when running new code to see the differences quickly in outputs. 
+I made difference report for similar CSVs and Parquets. This helps when running new code to see the differences quickly in outputs. 
 
 ![Daff_report](assets/img/Daff_report.png)
 
