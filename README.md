@@ -51,8 +51,8 @@ This is a histogram showcasing male birthweight versus female birthweight.
 ## Work Experience 
 
 **Power Platform Innovator @ Teksouth (_June 2024 - Present_)
-•	Developed dynamic data solutions using R for US Air Force clients, improving data extraction, transformation, and loading (ETL) processes.
-•	Implemented PowerBI and Power Apps to automate and optimize data management workflows for improved organizational efficiency.
+-	Developed dynamic data solutions using R for US Air Force clients, improving data extraction, transformation, and loading (ETL) processes.
+-	Implemented PowerBI and Power Apps to automate and optimize data management workflows for improved organizational efficiency.
 
 **Data Analyst @ Chugach (_October 2023 - June 2024_)**
  - Gathered and analyzed data for the financial center of the Department of Homeland Security.
