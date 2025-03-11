@@ -57,7 +57,7 @@ This is a histogram showcasing male birthweight versus female birthweight.
 
 ## Work Experience 
 
-**Power Platform Innovator @ Teksouth (_June 2024 - Present_)
+**Power Platform Innovator @ Teksouth (_June 2024 - Present_)**
 -	Developed dynamic data solutions using R for US Air Force clients, improving data extraction, transformation, and loading (ETL) processes.
 -	Implemented PowerBI and Power Apps to automate and optimize data management workflows for improved organizational efficiency.
 
