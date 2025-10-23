@@ -3,8 +3,9 @@
 ### Technical Skills: RStudio | Power BI | Power Query | SQL | Microsoft Office 
 
 ### Education 
-- B.S., Data Science/Neuroscience | Arizona State University (_August 2024_)
-- A.S., Psychology | Daytona State College (_August 2022_)
+- M.S., Data Science | University of Virginia
+- B.S., Data Science/Neuroscience | Arizona State University 
+- A.S., Psychology | Daytona State College 
 
 
 
