@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Scientist
 
 ### Technical Skills: RStudio | Power BI | Power Query | SQL | Microsoft Office 
 
