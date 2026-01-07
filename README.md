@@ -1,14 +1,45 @@
 # Data Scientist
 
 ### Technical Skills
+
+
+
 Languages & Analytics: R, SQL
+
 Data & BI: Power BI, Power Query
+
 Platforms & Tooling: Azure DevOps, GitHub
+
 Productivity: Microsoft Office
 
 
 
 # Projects
+
+## Documented Data Intake & Validation Framework (R)
+
+Built a reproducible R-based data intake framework that ingests heterogeneous CSV/Excel sources, generates human-readable data catalogs, enforces schema contracts, and produces validation artifacts suitable for regulated or enterprise analytics environments.
+
+https://github.com/HarleeScordo/Portfolio_Repo
+
+
+## What This Project Demonstrates
+
+- Documentation-first data engineering in R
+- Robust ingestion of messy CSV/XLSX sources
+- Automated generation of human-readable data catalogs
+- Schema contracts and validation with explicit outputs
+- Reproducible execution using renv
+- Separation of reusable logic and executable entry points
+
+### Catalog:
+
+![validation_example](assets/img/validation_example.png)
+
+### Validation:
+
+![validation_example](assets/img/validation_example.png)
+
 
 ## Data Comparison & Validation Reporting (CSV vs Parquet)
 
@@ -32,7 +63,7 @@ Built an interactive Power BI dashboard using a sample motorcycle sales dataset 
 ![MotorcylceDash](assets/img/MotorcycleDash.png)
 
  
-Technology Trends Dashboard
+### Technology Trends Dashboard
 
 Designed dashboards highlighting the top 10 nationally in-demand:
 -Programming languages
@@ -44,7 +75,7 @@ Visualizations were structured to support comparative analysis and executive-lev
 ![Dash](/assets/img/Dash.png)
 
  
-Survey Analytics Dashboard
+### Survey Analytics Dashboard
 
 Created an interactive dashboard analyzing survey responses across:
 -Gender
