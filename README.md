@@ -2,13 +2,16 @@
 
 ### Technical Skills
 Languages & Analytics: R, SQL
+
 Data & BI: Power BI, Power Query
+
 Platforms & Tooling: Azure DevOps, GitHub
+
 Productivity: Microsoft Office
 
-### Projects
+## Projects
 
-## Data Comparison & Validation Reporting (CSV vs Parquet)
+### Data Comparison & Validation Reporting (CSV vs Parquet)
 
 Developed a structured difference reporting workflow to compare outputs generated from CSV and Parquet pipelines.
 This solution enables rapid identification of discrepancies when validating new code changes or data transformations, supporting safer releases and regression checks.
@@ -24,7 +27,7 @@ Output formatted for rapid review by analysts and developers
 ![Daff_report](assets/img/Daff_report.png)
 
 
-## Dashboarding & Data Visualization (Power BI)
+### Dashboarding & Data Visualization (Power BI)
 
 Motorcycle Sales Dashboard
 Built an interactive Power BI dashboard using a sample motorcycle sales dataset to surface trends in sales volume, pricing, and product mix.
@@ -58,7 +61,7 @@ This project focused on filter-driven exploration and stakeholder-friendly story
 
 
 
-## R Code Examples & Exploratory Analysis
+### R Code Examples & Exploratory Analysis
 Pregnancy Length vs Prenatal Visits
 
 Developed R visualizations analyzing the relationship between pregnancy duration and the number of prenatal visits.
