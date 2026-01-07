@@ -17,6 +17,24 @@ Built a reproducible R-based data intake framework that ingests heterogeneous CS
 https://github.com/HarleeScordo/Portfolio_Repo
 
 
+## What This Project Demonstrates
+
+- Documentation-first data engineering in R
+- Robust ingestion of messy CSV/XLSX sources
+- Automated generation of human-readable data catalogs
+- Schema contracts and validation with explicit outputs
+- Reproducible execution using renv
+- Separation of reusable logic and executable entry points
+
+Catalog:
+
+![validation_example](assets/img/validation_example.png)
+
+Validation:
+
+![validation_example](assets/img/validation_example.png)
+
+
 ## Data Comparison & Validation Reporting (CSV vs Parquet)
 
 Developed a structured difference reporting workflow to compare outputs generated from CSV and Parquet pipelines.
