@@ -10,6 +10,13 @@ Productivity: Microsoft Office
 
 # Projects
 
+##Documented Data Intake & Validation Framework (R)
+
+Built a reproducible R-based data intake framework that ingests heterogeneous CSV/Excel sources, generates human-readable data catalogs, enforces schema contracts, and produces validation artifacts suitable for regulated or enterprise analytics environments.
+
+https://github.com/HarleeScordo/Portfolio_Repo
+
+
 ## Data Comparison & Validation Reporting (CSV vs Parquet)
 
 Developed a structured difference reporting workflow to compare outputs generated from CSV and Parquet pipelines.
