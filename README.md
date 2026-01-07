@@ -2,9 +2,14 @@
 
 ### Technical Skills
 
+
+
 Languages & Analytics: R, SQL
+
 Data & BI: Power BI, Power Query
+
 Platforms & Tooling: Azure DevOps, GitHub
+
 Productivity: Microsoft Office
 
 
