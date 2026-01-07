@@ -1,6 +1,11 @@
 # Data Scientist
 
-### Technical Skills: RStudio | Power BI | Power Query | SQL | Microsoft Office 
+### Technical Skills
+Languages & Analytics: R, SQL
+Data & BI: Power BI, Power Query
+Platforms & Tooling: Azure DevOps, GitHub
+Productivity: Microsoft Office
+
 
 ### Education 
 - M.S., Data Science | University of Virginia
@@ -11,43 +16,73 @@
 
 ### Projects
 
-## Made difference report for similar CSVs and Parquets:
+## Data Comparison & Validation Reporting (CSV vs Parquet)
 
-I made difference report for similar CSVs and Parquets. This helps when running new code to see the differences quickly in outputs. 
+Developed a structured difference reporting workflow to compare outputs generated from CSV and Parquet pipelines.
+This solution enables rapid identification of discrepancies when validating new code changes or data transformations, supporting safer releases and regression checks.
+
+Key capabilities:
+
+Column-level comparisons
+
+Row-level difference detection
+
+Output formatted for rapid review by analysts and developers
 
 ![Daff_report](assets/img/Daff_report.png)
 
 
-## Dashboarding:
+## Dashboarding & Data Visualization (Power BI)
 
-I created a dashboard to display motorcylce sales from a sample set using Power BI. 
+Motorcycle Sales Dashboard
+Built an interactive Power BI dashboard using a sample motorcycle sales dataset to surface trends in sales volume, pricing, and product mix.
  
 ![MotorcylceDash](assets/img/MotorcycleDash.png)
+
  
-I created a dashboard showcasing the top 10 nationally desired programming languages, databases, platforms and web frames. I showcased them accordingly in DB2.
- 
+Technology Trends Dashboard
+
+Designed dashboards highlighting the top 10 nationally in-demand:
+
+-Programming languages
+-Databases
+-Platforms
+-Web frameworks
+
+Visualizations were structured to support comparative analysis and executive-level consumption.
 ![Dash1](/assets/img/Dash1.png)
 ![Dash](/assets/img/Dash.png)
  
-I created an interactive dashboard of survey results. It is broken down by gender, age, origin and education level.
+Survey Analytics Dashboard
+Created an interactive dashboard analyzing survey responses across:
+-Gender
+-Age
+-Geographic origin
+-Education level
+This project focused on filter-driven exploration and stakeholder-friendly storytelling.
  
 ![Dash2](/assets/img/Dash2.png)
 
 
 
 
-## R Codes examples:
+## R Code Examples & Exploratory Analysis
+Pregnancy Length vs Prenatal Visits
 
-This is a simple plot showing the number of prental visits corresponding to the length of pregnancy.  
+Developed R visualizations analyzing the relationship between pregnancy duration and the number of prenatal visits.
  
 ![BirthsByWeekCode](/assets/img/BirthsByWeekCode.png)
 ![LengthPreg](/assets/img/LengthPreg.png) 
  
-This is a simple color coordinated plot for premature babies versus full-term. 
+Premature vs Full-Term Births
+
+Produced a color-coordinated comparison plot distinguishing premature and full-term births to support categorical analysis.
  
 ![RCode5](assets/img/RCode5.png) 
  
-This is a histogram showcasing male birthweight versus female birthweight. 
+Birthweight Distribution by Sex
+
+Built histograms comparing male and female birthweights to highlight distributional differences and variance.
  
 ![BirthWeightCode](assets/img/BirthWeightCode.png)
 ![BirthWeight](assets/img/BirthWeight.png)
