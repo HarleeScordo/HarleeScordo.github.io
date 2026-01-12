@@ -68,7 +68,7 @@ Built an interactive Power BI dashboard using a sample motorcycle sales dataset 
 ![MotorcylceDash](assets/img/MotorcycleDash.png)
 
  
-### Technology Trends Dashboard
+## Technology Trends Dashboard
 
 ### Designed dashboards highlighting the top 10 nationally in-demand:
 
