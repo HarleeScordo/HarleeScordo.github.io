@@ -50,7 +50,7 @@ Built a reproducible R-based data intake framework that ingests heterogeneous CS
 Developed a structured difference reporting workflow to compare outputs generated from CSV and Parquet pipelines.
 This solution enables rapid identification of discrepancies when validating new code changes or data transformations, supporting safer releases and regression checks.
 
-Key capabilities:
+### Key capabilities:
 
 - Column-level comparisons
 - Row-level difference detection
@@ -68,9 +68,9 @@ Built an interactive Power BI dashboard using a sample motorcycle sales dataset 
 ![MotorcylceDash](assets/img/MotorcycleDash.png)
 
  
-### Technology Trends Dashboard
+## Technology Trends Dashboard
 
-Designed dashboards highlighting the top 10 nationally in-demand:
+### Designed dashboards highlighting the top 10 nationally in-demand:
 
 - Programming languages
 - Databases
@@ -84,7 +84,7 @@ Visualizations were structured to support comparative analysis and executive-lev
  
 ### Survey Analytics Dashboard
 
-Created an interactive dashboard analyzing survey responses across:
+### Created an interactive dashboard analyzing survey responses across:
 
 - Gender
 - Age
