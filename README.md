@@ -34,9 +34,13 @@ https://github.com/HarleeScordo/Portfolio_Repo
 
 ### Catalog:
 
+https://github.com/HarleeScordo/Portfolio_Repo/blob/main/docs/DATA_CATALOG.md
+
 ![validation_example](assets/img/validation_example.png)
 
 ### Validation:
+
+https://github.com/HarleeScordo/Portfolio_Repo/blob/main/output/validation/validation_summary.csv
 
 ![validation_example](assets/img/validation_example.png)
 
