@@ -76,7 +76,7 @@ Designed dashboards highlighting the top 10 nationally in-demand:
 - Databases
 - Platforms
 - Web frameworks
-- 
+  
 Visualizations were structured to support comparative analysis and executive-level consumption.
 ![Dash1](/assets/img/Dash1.png)
 ![Dash](/assets/img/Dash.png)
@@ -90,7 +90,7 @@ Created an interactive dashboard analyzing survey responses across:
 - Age
 - Geographic origin
 - Education level
-- 
+  
 This project focused on filter-driven exploration and stakeholder-friendly storytelling.
  
 ![Dash2](/assets/img/Dash2.png)
