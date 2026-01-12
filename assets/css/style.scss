@@ -1,0 +1,89 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+/* =========================
+   Color Theme Overrides
+   ========================= */
+
+/* Primary accent color */
+:root {
+  --accent-blue: #2563eb;   /* clean, professional blue */
+  --accent-blue-dark: #1e40af;
+}
+
+/* Links */
+a,
+a:visited {
+  color: var(--accent-blue);
+}
+
+a:hover {
+  color: var(--accent-blue-dark);
+  text-decoration: underline;
+}
+
+/* Header text */
+header h1,
+header h2,
+header h3 {
+  color: var(--accent-blue);
+}
+
+/* Navigation / metadata */
+header p,
+.site-footer,
+.site-footer a {
+  color: #475569;
+}
+
+/* Code blocks */
+pre,
+code {
+  background-color: #0f172a;
+  color: #e5e7eb;
+  border-radius: 6px;
+}
+
+/* Inline code */
+code {
+  padding: 0.15em 0.35em;
+}
+
+
+/* =========================
+   Typography polish
+   ========================= */
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Section headers */
+h2 {
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 0.25rem;
+  margin-top: 2rem;
+}
+
+/* Tables (for data catalog previews) */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+th {
+  background: #f1f5f9;
+  text-align: left;
+  padding: 0.5rem;
+}
+
+td {
+  border-top: 1px solid #e5e7eb;
+  padding: 0.5rem;
+}
