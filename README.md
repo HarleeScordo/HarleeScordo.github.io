@@ -51,9 +51,9 @@ Developed a structured difference reporting workflow to compare outputs generate
 This solution enables rapid identification of discrepancies when validating new code changes or data transformations, supporting safer releases and regression checks.
 
 Key capabilities:
--Column-level comparisons
--Row-level difference detection
--Output formatted for rapid review by analysts and developers
+- Column-level comparisons
+- Row-level difference detection
+- Output formatted for rapid review by analysts and developers
 
 ![Daff_report](assets/img/Daff_report.png)
 
@@ -70,10 +70,10 @@ Built an interactive Power BI dashboard using a sample motorcycle sales dataset 
 ### Technology Trends Dashboard
 
 Designed dashboards highlighting the top 10 nationally in-demand:
--Programming languages
--Databases
--Platforms
--Web frameworks
+- Programming languages
+- Databases
+- Platforms
+- Web frameworks
 Visualizations were structured to support comparative analysis and executive-level consumption.
 ![Dash1](/assets/img/Dash1.png)
 ![Dash](/assets/img/Dash.png)
@@ -82,10 +82,10 @@ Visualizations were structured to support comparative analysis and executive-lev
 ### Survey Analytics Dashboard
 
 Created an interactive dashboard analyzing survey responses across:
--Gender
--Age
--Geographic origin
--Education level
+- Gender
+- Age
+- Geographic origin
+- Education level
 This project focused on filter-driven exploration and stakeholder-friendly storytelling.
  
 ![Dash2](/assets/img/Dash2.png)
