@@ -20,7 +20,7 @@ Productivity: Microsoft Office
 
 Built a reproducible R-based data intake framework that ingests heterogeneous CSV/Excel sources, generates human-readable data catalogs, enforces schema contracts, and produces validation artifacts suitable for regulated or enterprise analytics environments.
 
-https://github.com/HarleeScordo/Portfolio_Repo
+[Portfolio_Repo on GitHub](https://github.com/HarleeScordo/Portfolio_Repo)
 
 
 ## What This Project Demonstrates
@@ -34,13 +34,13 @@ https://github.com/HarleeScordo/Portfolio_Repo
 
 ### Catalog:
 
-https://github.com/HarleeScordo/Portfolio_Repo/blob/main/docs/DATA_CATALOG.md
+[View the Data Catalog](https://github.com/HarleeScordo/Portfolio_Repo/blob/main/docs/DATA_CATALOG.md)
 
 ![validation_example](assets/img/validation_example.png)
 
 ### Validation:
 
-https://github.com/HarleeScordo/Portfolio_Repo/blob/main/output/validation/validation_summary.csv
+[View the Validation Summary (CSV)](https://github.com/HarleeScordo/Portfolio_Repo/blob/main/output/validation/validation_summary.csv)
 
 ![validation_example](assets/img/validation_example.png)
 
