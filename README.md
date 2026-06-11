@@ -70,6 +70,15 @@ Designed and implemented a contract-driven data intake framework that standardiz
 [View Validation Results](https://github.com/HarleeScordo/Portfolio_Repo/blob/main/output/validation/validation_summary.csv)
 
 ![validation_example](assets/img/validation_example.png)
+![high_level_architecture](assets/img/high_level_architecture.png)
+![processing_flow](assets/img/processing_flow.png)
+
+---
+
+### Databricks ETL Optimization — 45M Record Pipeline
+
+Redesigned and optimized enterprise Databricks workflows processing 45M+ records daily, reducing end-to-end runtime from 2 hours to 30 minutes through query tuning, workflow restructuring, and performance engineering. Architected downstream data feeds consumed by multiple analytics and reporting systems.
+
 
 ---
 
