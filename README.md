@@ -105,11 +105,11 @@ Documenting the redesign of a legacy analytics workflow through runtime optimiza
 
 ### GitHub
 
-https://github.com/HarleeScordo
+[GitHub/HarleeScrodo](https://github.com/HarleeScordo)
 
 ### LinkedIn
 
-https://www.linkedin.com/in/harleescordo/
+[Linkedin/in/HarleeScodo](https://www.linkedin.com/in/harleescordo/)
 
 </main>
 
