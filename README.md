@@ -16,6 +16,15 @@ My work focuses on transforming complex or poorly documented data systems into m
 
 I currently design and support reusable analytics frameworks, validation systems, and enterprise data workflows using R, SQL, Azure DevOps, GitHub, and Power BI.
 
+
+## Portfolio Navigation
+
+- [Featured Project](#featured-project)
+- [Technical Skills](#technical-skills)
+- [What I Build](#what-i-build)
+- [How I Work](#how-i-work)
+- [Contact](#contact)
+
 ---
 
 ## Core Areas
