@@ -75,6 +75,13 @@ Designed and implemented a contract-driven data intake framework that standardiz
 
 ---
 
+### Databricks ETL Optimization — 45M Record Pipeline
+
+Redesigned and optimized enterprise Databricks workflows processing 45M+ records daily, reducing end-to-end runtime from 2 hours to 30 minutes through query tuning, workflow restructuring, and performance engineering. Architected downstream data feeds consumed by multiple analytics and reporting systems.
+
+
+---
+
 ## Technical Skills
 
 ### Languages & Platforms
