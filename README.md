@@ -109,7 +109,7 @@ https://github.com/HarleeScordo
 
 ### LinkedIn
 
-Add your LinkedIn URL here
+https://www.linkedin.com/in/harleescordo/
 
 </main>
 
