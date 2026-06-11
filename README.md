@@ -70,6 +70,8 @@ Designed and implemented a contract-driven data intake framework that standardiz
 [View Validation Results](https://github.com/HarleeScordo/Portfolio_Repo/blob/main/output/validation/validation_summary.csv)
 
 ![validation_example](assets/img/validation_example.png)
+![high_level_architecture](assets/img/high_level_architecture.png)
+![processing_flow](assets/img/processing_flow.png)
 
 ---
 
