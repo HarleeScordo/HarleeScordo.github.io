@@ -3,12 +3,20 @@
 <main markdown="1">
 
 # Harlee Scordo
+### Data Platform Engineer & Architect · ETL Design · Governance · Analytics Systems
 
-## Data Platform Engineer | Data Architecture | Analytics Systems
+> Designing governed data frameworks, validation systems, and analytics platforms for enterprise environments.
 
-Designing governed data frameworks, validation systems, and analytics platforms for enterprise environments.
+**Active Secret Clearance** · 7+ years experience
 
-Active Secret Clearance
+---
+
+## Impact at a Glance
+
+| | | |
+|:---:|:---:|:---:|
+| **75%** | **45M+** | **95%** |
+| Runtime reduction (2hr → 30min) | Records processed daily | Simulation startup speedup |
 
 ---
 
@@ -67,29 +75,18 @@ Designed and implemented a contract-driven data intake framework that standardiz
 
 ## Technical Skills
 
-### Languages
+### Languages & Platforms
+`Databricks` `Python` `SQL` `R`
 
-- R
-- SQL
-
-### Data Engineering & Analytics
-
-- ETL Design
-- Data Validation
-- Data Quality Frameworks
-- Metadata Management
-- Documentation Automation
+### Data Engineering
+`ETL design` `Data governance` `Data quality` `Metadata management` `Documentation automation`
 
 ### Business Intelligence
-
-- Power BI
-- Power Query
+`Power BI` `Power Query` `Power Automate`
 
 ### Development Platforms
+`Azure DevOps` `Advana` `GitHub` `Git`
 
-- Azure DevOps
-- GitHub
-- Git
 
 ---
 
@@ -109,7 +106,7 @@ Documenting the redesign of a legacy analytics workflow through runtime optimiza
 
 ### LinkedIn
 
-[Linkedin/in/HarleeScodo](https://www.linkedin.com/in/harleescordo/)
+[Linkedin/in/HarleeScordo](https://www.linkedin.com/in/harleescordo/)
 
 </main>
 
