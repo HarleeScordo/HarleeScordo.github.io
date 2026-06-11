@@ -15,10 +15,9 @@
 
 <main>
 
-
 # Harlee Scordo
 
-### Data Platform Engineer | Data Architecture | Analytics Systems
+## Data Platform Engineer | Data Architecture | Analytics Systems
 
 Designing governed data frameworks, validation systems, and analytics platforms for enterprise environments.
 
@@ -30,10 +29,25 @@ Active Secret Clearance
 
 I am a Data Platform Engineer specializing in data quality, validation frameworks, ETL architecture, and governed analytics environments.
 
-My work focuses on transforming complex or poorly documented data systems into maintainable, reproducible, and auditable solutions through automation, documentation, and architectural standards.
+## Core Areas
 
-I currently design and support reusable analytics frameworks, validation systems, and enterprise data workflows using R, SQL, Azure DevOps, GitHub, and Power BI.
+### Data Architecture
 
+### Validation Frameworks
+
+### Analytics Systems
+
+## Featured Project
+
+## Technical Skills
+
+## How I Work
+
+## Contact
+
+</main>
+
+</div>
 
 ---
 
