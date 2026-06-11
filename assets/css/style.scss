@@ -3,29 +3,37 @@
 
 @import "{{ site.theme }}";
 
-/* Keep Cayman green, but improve contrast */
+/* Restore Cayman green banner */
+.page-header {
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #159957);
+}
+
+/* Make banner subtitle readable */
 .project-tagline {
   color: #ffffff;
   opacity: 1;
-  font-weight: 500;
+  font-weight: 600;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.25);
 }
 
-/* Two-column portfolio layout */
+/* Right-side table of contents */
 .portfolio-layout {
   display: grid;
-  grid-template-columns: 220px 1fr;
-  gap: 2rem;
-  align-items: start;
+  grid-template-columns: minmax(0, 1fr) 230px;
+  gap: 2.5rem;
+  max-width: 1100px;
+  margin: 0 auto;
 }
 
-/* Left table of contents */
 .toc {
   position: sticky;
   top: 1rem;
+  align-self: start;
   padding: 1rem;
   border-left: 4px solid #159957;
   background: #f6f8fa;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 .toc h3 {
@@ -34,18 +42,17 @@
 }
 
 .toc ul {
-  padding-left: 1.1rem;
-  margin-bottom: 0;
+  padding-left: 1rem;
 }
 
-/* Mobile: stack TOC above content */
-@media screen and (max-width: 800px) {
+/* Mobile */
+@media screen and (max-width: 900px) {
   .portfolio-layout {
     display: block;
   }
 
   .toc {
     position: static;
-    margin-bottom: 2rem;
+    margin-top: 2rem;
   }
 }
