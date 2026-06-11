@@ -3,34 +3,49 @@
 
 @import "{{ site.theme }}";
 
-.page-header {
-  background-color: #0b3d91;
-  background-image: linear-gradient(120deg, #0b3d91, #1f6feb);
-}
-
-.project-name {
-  color: #ffffff;
-}
-
+/* Keep Cayman green, but improve contrast */
 .project-tagline {
-  color: #dbeafe;
+  color: #ffffff;
+  opacity: 1;
+  font-weight: 500;
 }
 
-.main-content h1,
-.main-content h2,
-.main-content h3 {
-  color: #0b3d91;
+/* Two-column portfolio layout */
+.portfolio-layout {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 2rem;
+  align-items: start;
 }
 
-.main-content a {
-  color: #1f6feb;
+/* Left table of contents */
+.toc {
+  position: sticky;
+  top: 1rem;
+  padding: 1rem;
+  border-left: 4px solid #159957;
+  background: #f6f8fa;
+  font-size: 0.95rem;
 }
 
-.main-content hr {
-  border-top: 1px solid #cbd5e1;
+.toc h3 {
+  margin-top: 0;
+  color: #155799;
 }
 
-.btn {
-  background-color: rgba(255, 255, 255, 0.12);
-  border-color: rgba(255, 255, 255, 0.35);
+.toc ul {
+  padding-left: 1.1rem;
+  margin-bottom: 0;
+}
+
+/* Mobile: stack TOC above content */
+@media screen and (max-width: 800px) {
+  .portfolio-layout {
+    display: block;
+  }
+
+  .toc {
+    position: static;
+    margin-bottom: 2rem;
+  }
 }
