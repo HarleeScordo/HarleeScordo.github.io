@@ -1,3 +1,21 @@
+<div class="portfolio-layout">
+
+<nav class="toc">
+
+### Portfolio Navigation
+
+- [About](#about)
+- [Core Areas](#core-areas)
+- [Featured Project](#featured-project)
+- [Technical Skills](#technical-skills)
+- [How I Work](#how-i-work)
+- [Contact](#contact)
+
+</nav>
+
+<main>
+
+
 # Harlee Scordo
 
 ### Data Platform Engineer | Data Architecture | Analytics Systems
@@ -16,14 +34,6 @@ My work focuses on transforming complex or poorly documented data systems into m
 
 I currently design and support reusable analytics frameworks, validation systems, and enterprise data workflows using R, SQL, Azure DevOps, GitHub, and Power BI.
 
-
-## Portfolio Navigation
-
-- [Featured Project](#featured-project)
-- [Technical Skills](#technical-skills)
-- [What I Build](#what-i-build)
-- [How I Work](#how-i-work)
-- [Contact](#contact)
 
 ---
 
