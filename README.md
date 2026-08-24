@@ -13,7 +13,7 @@
 
 ## Impact at a Glance
 
-|:---:|:---:|:---:|
+| | | |
 | **75%** | **45M+** | **95%** |
 | Runtime reduction (2hr → 30min) | Records processed daily | Simulation startup speedup |
 
